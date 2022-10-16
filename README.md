@@ -2,6 +2,11 @@
 
 Basically here I list the best resources I find while learning a new thing or two.
 
+## Computer Science Overview
+
+- [CrashCourse](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+- [Code: The Hidden Language of Computer Hardware and Software](<https://raw.githubusercontent.com/muditbac/Reading/master/programming/Charles%20Petzold-Code_%20The%20Hidden%20Language%20of%20Computer%20Hardware%20and%20Software-Microsoft%20Press%20(2000).pdf>)
+
 ## Getting started with Linux
 
 - [Linux Journey](https://linuxjourney.com/)
