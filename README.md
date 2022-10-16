@@ -24,7 +24,7 @@ Basically here I list the best resources I find while learning a new thing or tw
 
 - [Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM)
 
-### &nbsp; &nbsp; &nbsp; Bangla Resouces on C
+### &nbsp; &nbsp; Bangla Resouces on C
 
 - [TameemShahriarSubeen](https://www.rokomari.com/book/123261/computer-programming-1st-2nd-and-3rd-khondo-rokomari-collection)
 - [LoveExtendsCode](https://www.youtube.com/c/LoveExtendsCode/)
