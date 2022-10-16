@@ -19,3 +19,12 @@ Basically here I list the best resources I find while learning a new thing or tw
 
 - [Assembly Primer For Hackers](https://youtube.com/playlist?list=PL6brsSrstzga43kcZRn6nbSi_GeXoZQhR)
 - [Hacking : TAOE](<https://raw.githubusercontent.com/vxlabinfo/lib/master/exploit/Hacking-%20The%20Art%20of%20Exploitation%20(2nd%20ed.%202008)%20-%20Erickson.pdf>)
+
+## C Programming
+
+- [Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM)
+
+### &nbsp; &nbsp; &nbsp; Bangla Resouces on C
+
+- [TameemShahriarSubeen](https://www.rokomari.com/book/123261/computer-programming-1st-2nd-and-3rd-khondo-rokomari-collection)
+- [LoveExtendsCode](https://www.youtube.com/c/LoveExtendsCode/)
