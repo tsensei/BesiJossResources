@@ -28,3 +28,15 @@ Basically here I list the best resources I find while learning a new thing or tw
 
 - [TameemShahriarSubeen](https://www.rokomari.com/book/123261/computer-programming-1st-2nd-and-3rd-khondo-rokomari-collection)
 - [LoveExtendsCode](https://www.youtube.com/c/LoveExtendsCode/)
+
+## BesiJoss Youtube Channels
+
+| Channel Link                                                        | Description                                               |
+| ------------------------------------------------------------------- | --------------------------------------------------------- |
+| Paragraph                                                           | Text                                                      |
+| [sentdex](https://www.youtube.com/c/sentdex/)                       | AI, Machine Learning with Python                          |
+| [Two Minutes Papers](https://www.youtube.com/c/K%C3%A1rolyZsolnai/) | AI research and news                                      |
+| [Art of the problem](https://www.youtube.com/c/ArtOfTheProblem)     | CS theories visually explained                            |
+| [ComputerPhile](https://www.youtube.com/user/Computerphile)         | Great talks on CS concepts, Sister channel of Numberphile |
+| [Ben Eater](https://www.youtube.com/c/BenEater)                     | Computer Architecture from scratch and projects           |
+| [LiveOverFlow](https://www.youtube.com/c/LiveOverflow/)             | Intuitive videos on cybersecurity, hacking and CTFs       |
