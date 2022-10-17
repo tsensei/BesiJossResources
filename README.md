@@ -31,12 +31,38 @@ Basically here I list the best resources I find while learning a new thing or tw
 
 ## BesiJoss Youtube Channels
 
-| Channel Link                                                        | Description                                               |
-| ------------------------------------------------------------------- | --------------------------------------------------------- |
-| Paragraph                                                           | Text                                                      |
-| [sentdex](https://www.youtube.com/c/sentdex/)                       | AI, Machine Learning with Python                          |
-| [Two Minutes Papers](https://www.youtube.com/c/K%C3%A1rolyZsolnai/) | AI research and news                                      |
-| [Art of the problem](https://www.youtube.com/c/ArtOfTheProblem)     | CS theories visually explained                            |
-| [ComputerPhile](https://www.youtube.com/user/Computerphile)         | Great talks on CS concepts, Sister channel of Numberphile |
-| [Ben Eater](https://www.youtube.com/c/BenEater)                     | Computer Architecture from scratch and projects           |
-| [LiveOverFlow](https://www.youtube.com/c/LiveOverflow/)             | Intuitive videos on cybersecurity, hacking and CTFs       |
+| Channel Link                                                                  | Description                                                                                |
+| ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| [Sentdex](https://www.youtube.com/c/sentdex/)                                 | AI, Machine Learning with Python                                                           |
+| [Two Minutes Papers](https://www.youtube.com/c/K%C3%A1rolyZsolnai/)           | AI research and news                                                                       |
+| [Art of the problem](https://www.youtube.com/c/ArtOfTheProblem)               | CS theories visually explained                                                             |
+| [ComputerPhile](https://www.youtube.com/user/Computerphile)                   | Great talks on CS concepts, Sister channel of Numberphile                                  |
+| [Ben Eater](https://www.youtube.com/c/BenEater)                               | Computer Architecture from scratch and projects                                            |
+| [LiveOverFlow](https://www.youtube.com/c/LiveOverflow/)                       | Intuitive videos on cybersecurity, hacking and CTFs                                        |
+| [Reducible](https://www.youtube.com/c/Reducible)                              | Animated computer science concepts and problem solving                                     |
+| [The Cherno](https://www.youtube.com/c/TheChernoProject)                      | C++ projects and Game theory                                                               |
+| [NetworkChuck](https://www.youtube.com/c/NetworkChuck)                        | IT certifications, networking and hacking with a lot of enthusiasm                         |
+| [David Bombal](https://www.youtube.com/c/DavidBombal)                         | Everything about Linux, Python, Ethical Hacking, Networking, CCNA, Virtualization and more |
+| [John Hammond](https://www.youtube.com/c/JohnHammond010)                      | Basically the king of exploitation, hacking and CTFs                                       |
+| [Chris Greer](https://www.youtube.com/c/ChrisGreer)                           | WireShark and network troubleshooting                                                      |
+| [Seytonic](https://www.youtube.com/c/Seytonic)                                | Breakdown of CyberSec related news                                                         |
+| [PowerCert](https://www.youtube.com/c/PowerCertAnimatedVideos)                | Animated video on virtually every CS topic                                                 |
+| [Fireship.io](https://www.youtube.com/c/Fireship)                             | _Technology is my drug, fireship is my dealer_                                             |
+| [TechWithTim](https://www.youtube.com/c/TechWithTim)                          | Python & JS tutorials                                                                      |
+| [HusseinNasser](https://www.youtube.com/c/HusseinNasser-software-engineering) | Most informative news and tutorials for Backend Development                                |
+| [BenAwad](https://www.youtube.com/c/BenAwad97)                                | _Who said programmers don't have humor_                                                    |
+| [CodeBullet](https://www.youtube.com/c/CodeBullet/)                           | AI does fun stupid things                                                                  |
+| [ForrestKnight](https://www.youtube.com/c/FKnight)                            | Tech news and guidelines                                                                   |
+| [SirajRaval](https://www.youtube.com/c/SirajRaval)                            | AI educator and beyond                                                                     |
+| [Distrotube](https://www.youtube.com/c/DistroTube/)                           | Linux Distro Review, customization and more                                                |
+| [FunFunFunction](https://www.youtube.com/c/funfunfunction)                    | Advanced JS and webdev contents                                                            |
+| [Neso Acamdemy](https://www.youtube.com/c/nesoacademy/)                       | _Savior of us CS students, they don't require a description_                               |
+| [TheCodingTrain](https://www.youtube.com/c/TheCodingTrain)                    | Vast array of coding challanges mostly done with JavaScript                                |
+| [Danooct1](https://www.youtube.com/c/danooct1)                                | Virus and Malware Analysis                                                                 |
+| [SebastianLague](https://www.youtube.com/c/SebastianLague)                    | _We programmers are only limited by our imaginations_                                      |
+| [Ippsec](https://www.youtube.com/c/ippsec/)                                   | HackTheBox walkthrough and explanations                                                    |
+| [DayZeroSec](https://www.youtube.com/c/dayzerosec)                            | Reverse engineering / exploit development-related content                                  |
+| [LoiLiangYang](https://www.youtube.com/c/LoiLiangYang/)                       | Ethical Hacking and Cybersecurity                                                          |
+| [TheCyberMentor](https://www.youtube.com/c/TheCyberMentor)                    | Hacking tutorials and more                                                                 |
+| [HackerSploit](https://www.youtube.com/c/HackerSploit)                        | Pentesting, Red Teaming and Linux                                                          |
+| [NullBytes](https://www.youtube.com/c/NullByteWHT)                            | Hacking, Hardware pwning and more                                                          |
