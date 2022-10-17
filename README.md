@@ -66,3 +66,11 @@ Basically here I list the best resources I find while learning a new thing or tw
 | [Chris Greer](https://www.youtube.com/c/ChrisGreer)                           | WireShark and network troubleshooting                                                      |
 | [Danooct1](https://www.youtube.com/c/danooct1)                                | Virus and Malware Analysis                                                                 |
 | [DayZeroSec](https://www.youtube.com/c/dayzerosec)                            | Reverse engineering / exploit development-related content                                  |
+
+## BesiJoss Websites
+
+| Links                                 | Description                                            |
+| ------------------------------------- | ------------------------------------------------------ |
+| [Roadmap.sh](https://roadmap.sh/)     | Developer Roadmap                                      |
+| [12ft Ladder](https://12ft.io/)       | Remove paywall to read articles from sites like Medium |
+| [MonkeyType](https://monkeytype.com/) | Typing exercise with addictive UI and good reports     |
