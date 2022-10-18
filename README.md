@@ -17,6 +17,7 @@ Basically here I list the best resources I find while learning a new thing or tw
 
 ## Assembly x86
 
+- [Programming from the ground up](http://nongnu.askapache.com/pgubook/ProgrammingGroundUp-1-0-lettersize.pdf)
 - [Assembly Primer For Hackers](https://youtube.com/playlist?list=PL6brsSrstzga43kcZRn6nbSi_GeXoZQhR)
 - [Hacking : TAOE](<https://raw.githubusercontent.com/vxlabinfo/lib/master/exploit/Hacking-%20The%20Art%20of%20Exploitation%20(2nd%20ed.%202008)%20-%20Erickson.pdf>)
 
