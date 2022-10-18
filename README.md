@@ -24,7 +24,7 @@ Basically here I list the best resources I find while learning a new thing or tw
 
 - [Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM)
 
-### &nbsp; &nbsp; Bangla Resouces on C
+### &nbsp; &nbsp; Bangla Resources on C
 
 - [TameemShahriarSubeen](https://www.rokomari.com/book/123261/computer-programming-1st-2nd-and-3rd-khondo-rokomari-collection)
 - [LoveExtendsCode](https://www.youtube.com/c/LoveExtendsCode/)
@@ -34,7 +34,7 @@ Basically here I list the best resources I find while learning a new thing or tw
 | Channel Link                                                                  | Description                                                                                |
 | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
 | [ComputerPhile](https://www.youtube.com/user/Computerphile)                   | Great talks on CS concepts, Sister channel of Numberphile                                  |
-| [Neso Acamdemy](https://www.youtube.com/c/nesoacademy/)                       | _Savior of us CS students, they don't require a description_                               |
+| [Neso Academy](https://www.youtube.com/c/nesoacademy/)                        | _Savior of us CS students, they don't require a description_                               |
 | [Fireship.io](https://www.youtube.com/c/Fireship)                             | _Technology is my drug, fireship is my dealer_                                             |
 | [PowerCert](https://www.youtube.com/c/PowerCertAnimatedVideos)                | Animated video on virtually every CS topic                                                 |
 | [Art of the problem](https://www.youtube.com/c/ArtOfTheProblem)               | CS theories visually explained                                                             |
@@ -43,7 +43,7 @@ Basically here I list the best resources I find while learning a new thing or tw
 | [Forrest Knight](https://www.youtube.com/c/FKnight)                           | Tech news and guidelines                                                                   |
 | [Sentdex](https://www.youtube.com/c/sentdex/)                                 | AI, Machine Learning with Python                                                           |
 | [Two Minutes Papers](https://www.youtube.com/c/K%C3%A1rolyZsolnai/)           | AI research and news                                                                       |
-| [SirajRaval](https://www.youtube.com/c/SirajRaval)                            | AI educator and beyond                                                                     |
+| [ StatQuest](https://www.youtube.com/c/joshstarmer/)                          | Statistics, Machine Learning and Data Science                                              |
 | [CodeBullet](https://www.youtube.com/c/CodeBullet/)                           | AI does fun stupid things                                                                  |
 | [SebastianLague](https://www.youtube.com/c/SebastianLague)                    | _We programmers are only limited by our imaginations_                                      |
 | [Ben Eater](https://www.youtube.com/c/BenEater)                               | Computer Architecture from scratch and projects                                            |
