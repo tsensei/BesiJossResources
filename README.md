@@ -14,7 +14,7 @@ Basically here I list the best resources I find while learning a new thing or tw
 - [Useful Linux Commands by LearnLinuxTv](https://www.youtube.com/playlist?list=PLT98CRl2KxKHaKA9-4_I38sLzK134p4GJ)
 - [Learn Enough Command Line to Be Dangerous](https://pdfroom.com/books/learn-enough-command-line-to-be-dangerous-a-tutorial-introduction-to-the-unix-command-line/1j5KLrKGdKr/download)
 - [Bandit Wargame (advanced)](https://overthewire.org/wargames/bandit/)
-- [TLCL (Reference book)](<https://raw.githubusercontent.com/santosh373/Linux-Basics/master/The%20Linux%20Command%20Line%2C%20A%20Complete%20Introduction%202nd%20(2013).pdf>)
+- [The Linux Command Line (Reference book)](<https://raw.githubusercontent.com/santosh373/Linux-Basics/master/The%20Linux%20Command%20Line%2C%20A%20Complete%20Introduction%202nd%20(2013).pdf>)
 
 ## Assembly x86
 
