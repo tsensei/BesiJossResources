@@ -32,6 +32,10 @@ Basically here I list the best resources I find while learning a new thing or tw
 - [TameemShahriarSubeen](https://www.rokomari.com/book/123261/computer-programming-1st-2nd-and-3rd-khondo-rokomari-collection)
 - [LoveExtendsCode](https://www.youtube.com/c/LoveExtendsCode/)
 
+## SQL
+- [SQLbolt](https://sqlbolt.com/)
+
+
 ## BesiJoss Youtube Channels
 
 | Channel Link                                                                  | Description                                                                                |
